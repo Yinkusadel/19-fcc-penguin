@@ -1,6 +1,6 @@
-# Project Name
+# Penguin Page
 
-> One paragraph statement about the project.
+> Building a penguin using CSS transforms to position and resize the parts,creating a background and animating your work.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,17 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- p
+- div
+- CSS
+- gradient
+- media query
+- pseudo selector
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://19-fcc-penguin.netlify.app)
 
 ### Development (Running locally)
 
