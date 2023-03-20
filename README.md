@@ -8,13 +8,21 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- p
-- div
-- CSS
-- gradient
-- media query
-- pseudo selector
+- ### HTML5 elements
+  - **Block element**
+    `div` `p`
+- ### CSS properties
+  - CSS variables for reuseable CSS values,
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS positioning `fixed`
+  - CSS `linear gradient`
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `class selector` `root selector` `pseudo selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
